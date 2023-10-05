@@ -13,12 +13,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=75 title="GitHub" />
 </div>
 <hr/>
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuliya-Lov&theme=moonlight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuliya-Lov&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuliya-Lov&theme=moonlight&utcOffset=8)
-
+</div>
 <div align="center">
 <img src="https://www.codewars.com/users/jul-yaris/badges/large"  title="Codewars Badge" />
 <hr/>
